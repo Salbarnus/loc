@@ -2,3 +2,9 @@ touch data.txt
 touch comm.txt
 nano data.txt
 nano comm.txt
+
+git add .
+git commit -m "Files added"
+
+git remote add origin
+git push origin master
