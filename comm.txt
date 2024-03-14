@@ -1,0 +1,4 @@
+touch data.txt
+touch comm.txt
+nano data.txt
+nano comm.txt
